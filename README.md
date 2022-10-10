@@ -1,1 +1,1 @@
-# mikrotik-scripts
+Mikrotik scripts for different purposes
