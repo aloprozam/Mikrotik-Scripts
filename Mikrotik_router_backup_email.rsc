@@ -22,7 +22,7 @@
 :delay 2s
 #SettingSMTP
 /tool e-mail
-set address=$SmtpServer
+set server=$SmtpServer
 set port=$SmtpPort
 set from=$SendFrom
 set user=$SendFrom
